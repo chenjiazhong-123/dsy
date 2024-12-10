@@ -1,5 +1,3 @@
-更新时间:,#genre#
-24年12月9日, http://112.101.78.50:9901/tsfile/live/0001_1.m3u8
 央视,#genre#
 //PLTV ottrrs.hl.chinamobile.com/PLTV
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -297,3 +295,5 @@ NewTV精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/
 春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 春晚2021,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
 春晚2022,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
+更新时间:,#genre#
+24年12月9日, http://112.101.78.50:9901/tsfile/live/0001_1.m3u8
