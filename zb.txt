@@ -2,7 +2,7 @@
 chen_jia_zhong更新于2024年12月9日晚
 央视,#genre#
 //PLTV ottrrs.hl.chinamobile.com/PLTV
-CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+//CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1 综合,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -42,7 +42,7 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 
 
 //黑龙江电信 酒店源 112.101.78.50:9901/tsfile
-CCTV-1 综合,http://112.101.78.50:9901/tsfile/live/0001_1.m3u8
+//CCTV-1 综合,http://112.101.78.50:9901/tsfile/live/0001_1.m3u8
 CCTV-2 财经,http://112.101.78.50:9901/tsfile/live/0002_1.m3u8
 CCTV-3 综艺,http://112.101.78.50:9901/tsfile/live/0003_1.m3u8
 CCTV-4 中文国际,http://112.101.78.50:9901/tsfile/live/0004_1.m3u8
