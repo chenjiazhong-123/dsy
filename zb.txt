@@ -1,5 +1,5 @@
 更新时间:,#genre#
-24年12月9日, 
+24年12月9日, http://112.101.78.50:9901/tsfile/live/0001_1.m3u8
 央视,#genre#
 //PLTV ottrrs.hl.chinamobile.com/PLTV
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
