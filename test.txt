@@ -1,4 +1,13 @@
-更新时间,#genre#
 2024-12-17 00:12:38,url
 📺央视频道,#genre#
-CCTV-1,https://hlszymgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=80812866-112b-4f79-b15a-802bad3ef1f9&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20241217173521&Channel_ID=0131_10010001005&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=171.8.14.107&SecurityKey=20241217173521&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-7.12.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&conFee=0&encrypt=79fef913bb7fd991959a2ea2dd2b541d&sv=10000&ct=h5
+CCTV-1,http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3083ef101384f0a094458a9315f6c8471&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20241217175824&Channel_ID=0116_25000303-99000-101700010040002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=171.8.14.107&SecurityKey=20241217175824&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-7.12.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspipad&tid=ipad&conFee=0&encrypt=512e599bddd689354b3b3ae697ca5dfc
+
+CCTV-1,http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3083ef101384f0a094458a9315f6c1706&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20241217175932&Channel_ID=0116_25000303-99000-101700010040002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=171.8.14.107&SecurityKey=20241217175932&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-7.12.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspipad&tid=ipad&conFee=0&encrypt=f6658c7258591e90945909aafc88b3cb
+
+CCTV-1,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3083ef101384f0a094458a9315f6c2846&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20241217180024&Channel_ID=0116_25000303-99000-101700010040002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=171.8.14.107&SecurityKey=20241217180024&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-7.12.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspipad&tid=ipad&conFee=0&encrypt=fc159daafeb45410e8100cd4f011d5f5
+
+CCTV-1,http://127.0.0.1:8902/9900923/index.m3u8
+
+CCTV-1,https://hlszymgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=20ed892d-0ba9-4865-807c-b5aec29f99e8&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20241217180206&Channel_ID=0131_10010001005&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=171.8.14.107&SecurityKey=20241217180206&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-7.12.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&conFee=0&encrypt=04bb337500803f623b3de00e5c5f659a&sv=10000&ct=h5
+
+CCTV-1,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
